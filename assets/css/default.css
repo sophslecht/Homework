@@ -1,0 +1,100 @@
+
+
+h1 {
+  text-transform: uppercase;
+  font-family: helvetica;
+  margin: 0px;
+  font-size: 55px;
+  text-align: center;
+}
+
+h1:hover{
+  color:red;
+}
+
+h2{
+  text-align: left;
+}
+
+h2:hover{
+  color:orange;
+}
+
+h3{
+text-transform: uppercase;
+font-family: helvetica;
+margin: 0px;
+font-size: 55px;
+text-align: center;
+}
+
+.im-title--LightYellow:hover{
+  color:LightYellow;
+}
+
+.im-title--Peachpuff:hover{
+  color:Peachpuff ;
+}
+
+.im-title--Lavender:hover{
+  color:Lavender;
+}
+
+.im-title---Violet:hover{
+  color:Violet;
+}
+
+.im-title--Peachpuff:hover{
+  color:Peachpuff;
+}
+
+.im-title--LightCyan:hover{
+  color:LightCyan;
+}
+
+.im-title--PowderBlue:hover{
+  color:PowderBlue;
+}
+
+.im-title--Honeydew:hover{
+  color:Honeydew;
+}
+
+.im-title--MistyRose:hover{
+  color:MistyRose;
+}
+
+.im-title--LavenderBlush:hover{
+  color:LavenderBlush;
+}
+
+.im-title--Ivory:hover{
+  color:Ivory;
+}
+
+.im-title--AliceBlue{
+  color:AliceBlue;
+}
+
+.im-title--Khaki{
+  color:Khaki;
+}
+
+
+.im-body {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+
+}
+
+.im-title-container {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  top: 0;
+  left: 0;
+  margin:0;
+  padding: 15px;
+font-family: Courier;
+}
